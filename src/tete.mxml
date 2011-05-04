@@ -3,4 +3,5 @@
 			   xmlns:s="library://ns.adobe.com/flex/spark" 
 			   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="955" minHeight="600">
 	<s:Button horizontalCenter="0" verticalCenter="0" label="kkk"/>
+	<s:Button/>
 </s:Application>
